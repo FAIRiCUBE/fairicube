@@ -1,12 +1,2 @@
-# OS files
-.DS_Store
-Thumbs.db
-
-# Editors
-/.idea/
-/.vscode/
-
-# Node / npm
-.npm
-/node_modules/
-package-lock.json
+/package-lock.json
+/node_modules
