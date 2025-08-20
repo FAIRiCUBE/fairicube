@@ -105,7 +105,11 @@
     "fields": {
       "type": "object",
       "properties": {
-        "fairicube:usecase": {
+        "fairicube:purpose": {
+          "type": "string",
+          "minLength": 1
+        },
+        "fairicube:source_type": {
           "type": "string",
           "minLength": 1
         },
