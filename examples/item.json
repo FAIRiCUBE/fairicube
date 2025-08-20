@@ -6,7 +6,7 @@
     "license": "CC-BY-4.0",
     "description": "Count of persons at their usual place of residence per square km",
     "datetime": "2021-02-17T15:13:53Z",
-    "fairicube:usecase": "Drosophila Genetics (NHM)",
+    "fairicube:purpose": "Drosophila Genetics (NHM)",
     "fairicube:quality_measures": "high",
     "bands": [
       {
