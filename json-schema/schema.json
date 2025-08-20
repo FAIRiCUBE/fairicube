@@ -109,6 +109,10 @@
           "type": "string",
           "minLength": 1
         },
+        "fairicube:source_type": {
+          "type": "string",
+          "minLength": 1
+        },
         "fairicube:quality_measures": {
           "type": "string",
           "minLength": 1

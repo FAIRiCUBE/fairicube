@@ -27,6 +27,7 @@ The fields in the table below can be used in these parts of STAC documents:
 | Field Name                 | Type   | Description |
 | -------------------------- | ------ | ----------- |
 | fairicube:purpose          | string | Describes the project's purpose which the resource was created for. |
+| fairicube:source_type      | string | The type of the original data (e.g grid, vector) |
 | fairicube:quality_measures | string | The applied quality measures on data (standardised calibration, repeated samples or measurements, data capture, data entry validation, peer review of data, or representation with controlled vocabularies) |
 | fairicube:definition       | string | A semantic definition (or link) for the supplied dataset (what measurements are represented eg. velocity) |
 | fairicube:comment          | string | Any helpful comments about the dataset e.g. processing details for processors and producers |
