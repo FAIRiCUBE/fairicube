@@ -1,7 +1,7 @@
 # FAIRiCUB Extension Specification
 
 - **Title:** FAIRiCUBE
-- **Identifier:** <https://fairicube.github.io/fairicube/v1.0.0/schema.json>
+- **Identifier:** <https://fairicube.github.io/fairicube/v1.2.0/schema.json>
 - **Field Name Prefix:** fairicube
 - **Scope:** Item
 - **Extension [Maturity Classification](https://github.com/radiantearth/stac-spec/tree/master/extensions/README.md#extension-maturity):** Proposal

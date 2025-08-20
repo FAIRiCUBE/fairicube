@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://fairicube.github.io/fairicube/v1.0.0/schema.json#",
+  "$id": "https://fairicube.github.io/fairicube/v1.2.0/schema.json#",
   "title": "FAIRiCUBE Extension",
   "description": "STAC FAIRiCUBE Extension for STAC Items.",
   "type": "object",
@@ -13,7 +13,7 @@
     "stac_extensions": {
       "type": "array",
       "contains": {
-        "const": "https://fairicube.github.io/fairicube/v1.0.0/schema.json"
+        "const": "https://fairicube.github.io/fairicube/v1.2.0/schema.json"
       }
     }
   },
